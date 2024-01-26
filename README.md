@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Site](emrekocaayak.com)
-* ✉️  You can contact me at [imfloscy@gmail.com](mailto:me@emrekocaayak.com)
+* ✉️  You can contact me at [me@emrekocaayak.com](mailto:me@emrekocaayak.com)
 
 ### Skills
 
